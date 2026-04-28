@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا عيوني الليل بيناديك
+> و الشوق في قلبي دايب فيك
+> نار الهوى بتشعل حنين
+> معاك بنسى كل السنين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
